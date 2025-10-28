@@ -177,16 +177,16 @@ This portfolio template is designed to be easily customizable. Feel free to:
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 📞 Support
-
+📞 Support & Contact
 Need help customizing your portfolio?
 
-- 📧 Email: [contact@terasyystems.ai](mailto:contact@terasyystems.ai)
-- 💼 LinkedIn: [Lebede Ngartera](https://www.linkedin.com/in/lebede-ngartera-82429343/)
-- 🐙 GitHub: [Teraces12](https://github.com/Teraces12)
+📧 Email: [research@terasystems.ai](mailto:research@terasystems.ai) | [lebede@terasystems.ai](mailto:lebede@terasystems.ai)
+💼 LinkedIn: [Lebede Ngartera](https://www.linkedin.com/in/lebede-ngartera-82429343)
+🐙 GitHub: [Teraces12](https://github.com/Teraces12)
 
 ---
 
 ### "Innovation distinguishes between a leader and a follower." - Steve Jobs
 
 ⭐ **Star this repository if you found it revolutionary!** ⭐
+
